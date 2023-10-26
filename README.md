@@ -11,7 +11,7 @@ Simple batch file to remove all UI sounds *(Including annoying ambient sound)* f
 
 ---
 ### 이게 뭔데요?
-오큘러스 대시의 모든 UI 소리를 제거하는 간단한 배치 파일입니다.
+오큘러스 Dash의 모든 UI 효과음(웅웅거리는 환경음 포함)을 제거하는 간단한 배치 파일입니다.
 
 ### 사용법
 1. [릴리즈 페이지](https://github.com/SalaryTheft/ShutUpDash/releases)에서 최신 릴리즈를 다운로드합니다.
